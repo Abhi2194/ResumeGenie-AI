@@ -38,10 +38,10 @@ streamlit run app.py
 
 👉 [Try the Demo / Paid Access](https://resumegenie-ai.streamlit.app)
 
-
-👉 Try the Demo / Paid Access
-
 💳 To unlock full access, pay ₹499 via UPI and get your code.
+
+
+
 👤 Created By
 Abhijeet Singh
 AI Engineer | Resume Optimization Specialist
