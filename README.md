@@ -31,8 +31,13 @@ bash
 pip install -r requirements.txt
 streamlit run app.py
 
-🌍 Live App (Paid Access)
-🛡️ This app is for paid users only. Contact for access.
+
+## 🌍 Live App (Paid Access)
+
+> 🛡️ This app is for paid users only. Contact for access.
+
+👉 [Try the Demo / Paid Access](https://resumegenie-ai.streamlit.app)
+
 
 👉 Try the Demo / Paid Access
 
