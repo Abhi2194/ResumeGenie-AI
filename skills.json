@@ -1,0 +1,10 @@
+
+{
+    "data_scientist": [
+        "python", "machine learning", "deep learning", "tensorflow", "keras",
+        "pandas", "numpy", "data analysis", "scikit-learn", "matplotlib"
+    ],
+    "software_engineer": [
+        "java", "c++", "python", "data structures", "algorithms", "git", "docker", "linux"
+    ]
+}
